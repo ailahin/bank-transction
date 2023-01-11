@@ -33,7 +33,7 @@ document.getElementById('deposit-button').addEventListener('click', function(){
 
 
     depositInput.value= '';
-})
+});
 
 //withdraw Balanace
 
